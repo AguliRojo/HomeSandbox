@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  max-width: 700px;
+  margin: 40px auto;
+  line-height: 1.6;
+}
+
+h1 {
+  margin-bottom: 0.2em;
+}
+
+nav a {
+  margin-right: 1em;
+  text-decoration: none;
+  color: #0077cc;
+}
